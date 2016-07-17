@@ -1,12 +1,12 @@
 {
-	"name": "hyperseti",
-	"version": "1.0.0",
-	"description": "Seti Hyperterm theme",
-	"main": "index.js",
-	"keywords": [
-		"hyperterm",
-		"seti"
-	],
-	"author": "Luis Romero",
-	"license": "MIT"
+  "name": "hyperseti",
+  "version": "1.0.1",
+  "description": "Seti Hyperterm theme",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "seti"
+  ],
+  "author": "Luis Romero",
+  "license": "MIT"
 }
